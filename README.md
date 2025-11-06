@@ -15,6 +15,6 @@ The game continues until the player correctly reveals the full word or runs out 
 <img width="356" height="234" alt="image" src="https://github.com/user-attachments/assets/560b6d52-0637-4356-b23e-bcb8a2886146" />
 
 
-Tutorial link
-https://www.codedex.io/projects/build-a-word-guessing-game-with-python
+##### Tutorial link
+##### https://www.codedex.io/projects/build-a-word-guessing-game-with-python
 ---
